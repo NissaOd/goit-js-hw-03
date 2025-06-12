@@ -1,0 +1,19 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "Homework-2",
+  "scripts": {
+    "push": "git add .; git commit -m 'update'; git push;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NissaOd/goit-js-hw-02"
+  },
+  "keywords": [],
+  "author": "Nissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://nissaod.github.io/goit-js-hw-012/"
+  },
+  "homepage": "https://github.com/NissaOd/goit-js-hw-02/blob/main/README.md"
+}
